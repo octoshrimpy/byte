@@ -1,5 +1,5 @@
 # Byte
-_an open-source _alternative_ to short-form_ video communities_
+_an open-source alternative to short-form video communities_
 
 ---
 
