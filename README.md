@@ -15,4 +15,15 @@ _an open-source alternative to short-form video communities_
 * against addiction at all costs
 * smaller vids with lower resolution = good compression and storage
 * browse and share without login required
-* 
+* store channels locally without an account
+* sync across devices with an account (or any other method of file sync)
+---
+
+## screens
+
+* home
+* login
+* settings
+* upload
+* record
+* interact
